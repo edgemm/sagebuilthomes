@@ -1,0 +1,1146 @@
+@charset "UTF-8";
+
+/*
+Theme Name: Sage Built Homes Updated v4.0
+Version: 3.0
+Author: Art4orm
+Author URI: http://www.art4orm.com
+*/
+
+
+
+
+body, html{
+	background-color: #491710;
+	background-image: url(/wp-content/themes/sagethemev2/images/background.jpg);
+	background-repeat: repeat-x;
+	color:black;
+	/* min-height: 1400px;*/
+	
+}
+
+.page-id-5 #sidebarout{
+	display: none;
+}
+
+a{
+	color:white;
+}
+
+#topnav a{
+	text-decoration: none;
+	margin-right: 20px;
+}
+
+
+
+#logo{
+	float: left;
+}
+
+#navleft{
+	float:left;
+	margin-top: 50px;
+}
+
+#navright{
+	float: left;
+	margin-top: 50px;
+}
+
+
+
+
+
+#topcontent{
+	width:820px;
+	height:167px;
+	margin-left: 45px;
+	
+	background-image: url(/wp-content/themes/sagethemev2/images/topimagemovedout.png);
+	background-repeat: no-repeat;
+}
+
+.page-template-page-php #content{
+	width:823px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+}
+
+#bottomcontent{
+	width:910px;
+	height:156px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/bottomImagred.png);
+	background-repeat: no-repeat;
+	clear:both;
+	
+}
+
+
+
+
+#sidebarout{
+	width:180px;
+	float:left;
+	display:block;
+	background-color: #fffae4;
+	
+	
+}
+
+#rightcontent{
+	width:640px;
+	float:left;
+	display: block;
+	
+}
+
+
+
+#line{
+	height:100%;
+	
+}
+
+#contentright{
+	width: 520px;
+	float: none;
+	float:left;
+	padding-top: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-image: url(/wp-content/themes/sagethemev2/images/dottedLine.png);
+	background-repeat: repeat-y;
+	margin-top: 15px;
+	
+}
+
+#leftnav{
+	width: 180px;
+	float:left;
+	text-align: center;
+	margin-top: 20px;
+}
+
+
+#leftnav a{
+	color:black;
+	font-style: italic;
+	text-decoration: none;
+	margin-bottom: 30px;
+	height:20px;
+	
+}
+
+#cityline{
+	border-bottom: solid 1px #cfcbbc;
+	width: 170px;
+	height:10px;
+	margin-bottom: 10px;
+}
+
+
+
+
+
+
+#frontleft{
+	width:398px;
+	height: 153px;
+	float: left;
+	margin-left: 12px;
+	margin-top: 7px;
+	background-image: url(/wp-content/themes/sagethemev2/images/01.png);
+	background-repeat: no-repeat;
+}
+
+#frontright{
+	width:398px;
+	height: 153px;
+	float: left;
+	margin-top: 7px;
+	background-image: url(/wp-content/themes/sagethemev2/images/02.png);
+	background-repeat: no-repeat;
+
+}
+
+#frontright a{
+	color: #491710;
+}
+
+#slideshow {
+    position:relative;
+    height:355px;
+    margin-left: 13px;
+    padding-bottom: 5px;
+	overflow: hidden;   
+}
+
+#slideshow IMG {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    opacity:0.0;
+}
+
+#slideshow IMG.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow IMG.last-active {
+    z-index:9;
+}
+
+#frontlefttitle{
+	padding-left: 180px;
+	font-size: 21px;
+	color:#f2f7c2;
+	padding-top: 2px;
+	font-style: italic;
+	font-weight: bold
+}
+
+#frontleftcontent{
+	padding-left: 230px;
+	padding-top: 10px;
+}
+
+#frontrighttitle{
+	padding-left: 30px;
+	font-size: 21px;
+	color:#f2f7c2;
+	padding-top: 2px;
+	font-style: italic;
+	font-weight: bold
+}
+
+#frontrightcontent{
+	padding-left:30px;
+	padding-top: 10px;
+}
+
+.home #content{
+	width:1000px;
+	margin-bottom: 0 ;
+	padding-left: 0 ;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: none;
+	
+	overflow: inherit;
+}
+
+#content{
+	width:882px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+}
+
+/*.page-id-252 #content{
+	width:823px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+}
+
+.page-template-page-listing-php  #content{
+	width:823px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+	color: black;
+}
+
+.page-template-page-listing-beaverton-php #content{
+	width:823px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+	color: black;
+}
+
+
+.page-template-page-listing-test-php #content{
+	width:823px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+	color: black;
+}
+
+
+.page-template-page-listing-tigard-php #content{
+	width:823px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+	color: black;
+}
+
+.page-template-page-listing-ocity-php #content{
+	width:823px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+	color: black;
+}
+
+.page-template-page-listing-vancouver-php #content{
+	width:823px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+	color: black;
+}
+
+.page-template-page-listing-nwportland-php #content{
+	width:823px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+	color: black;
+}
+
+
+.page-template-page-gallery-php #content{
+	width:823px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+	color: black;
+}
+
+.page-template-page-care-php #content{
+	width:823px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+	color: black;
+}
+
+.page-template-page-aboutus-php #content{
+	width:823px;
+	margin-bottom: -130px;
+	padding-left: 27px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/contentwcolor.png);
+	background-repeat: repeat-y;
+	overflow: inherit;
+	color: black;
+}*/
+
+.page-template-page-care-php #contentright{
+	background-image: none;
+	width: 700px;
+	margin-left: 15px;
+}
+
+
+
+h1#title{
+	color: black;
+	font-size: 23px;
+	font-style: italic;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+.homebox{
+	width:220px;
+	height:240px;
+	float:left;
+	color:black;
+	
+}
+
+.homeboxtitle{
+	width:170px;
+}
+
+.homebox a{
+	color: #1d475d !important;
+}
+
+#planbottom{
+	width:220px;
+	height: 20px;
+	background-image: url(/wp-content/uploads/planbottom.jpg);
+	background-repeat: no-repeat;
+}
+
+.page-template-page-listing-beaverton-php a#beaverton{
+	color:#790d0b;
+}
+
+
+.page-template-page-listing-ocity-php a#ocity{
+	color:#790d0b;
+}
+
+
+.page-template-page-listing-vancouver-php a#vancouver{
+	color:#790d0b;
+}
+
+.page-template-page-listing-nwportland-php a#nwportland{
+	color:#790d0b;
+}
+
+.page-template-page-listing-tigard-php a#tigard{
+	color:#790d0b;
+}
+
+a#beaverton{
+	font-weight:bold; 
+}
+
+a#ocity{
+	font-weight:bold; 
+}
+
+a#vancouver{
+	font-weight:bold; 
+}
+
+a#nwportland{
+	font-weight: bold;
+}
+
+a#tigard{
+	font-weight: bold;
+}
+
+
+#contentright h2{
+	font-style: italic;
+	color:#790d0b;
+	font-size: 20px;
+	padding-bottom: 15px;
+}
+
+.listingimage{
+	width:160px;
+	float:left;
+	margin-right: 20px;
+}
+
+.listinginfo{
+	width:335px;;
+	float:left;	
+	
+}
+
+
+.line{
+	border-bottom: solid #bebdbd 1px;
+	float: left;
+	height:20px;
+	width:510px;
+	margin-bottom: 20px;
+}
+
+.floorplanbutton{
+	margin-top: 10px;
+}
+
+.floorplanbutton a{
+	outline: none;/* get rid of dotted borders in FireFox */
+ 	text-indent: -5000px ;/* this move the text outside of the screen area */
+ 	display:block;
+	width:165px;
+	height:30px;
+	background-image: url(/wp-content/themes/sagethemev2/images/viewFloorplan.jpg);
+}
+
+.floorplanbutton a:hover{
+	background-position: bottom;
+}
+
+.photobutton{
+	margin-top: 8px;
+}
+
+.photobutton a{
+	outline: none;/* get rid of dotted borders in FireFox */
+ 	text-indent: -5000px ;/* this move the text outside of the screen area */
+ 	display:block;
+	width:165px;
+	height:30px;
+	background-image: url(/wp-content/themes/sagethemev2/images/viewPhotos.png);
+}
+
+.photobutton a:hover{
+	background-position: bottom;
+}
+
+.page-template-page-listing-vancouver-php #contentright h3{
+	font-style: italic;
+	color:#790d0b;
+	font-size: 20px;
+	padding-bottom: 15px;
+}
+
+.page-template-page-listing-ocity-php #contentright h3{
+	font-style: italic;
+	color:#790d0b;
+	font-size: 20px;
+	padding-bottom: 15px;
+}
+
+.page-template-page-listing-beaverton-php #contentright h3{
+	font-style: italic;
+	color:#790d0b;
+	font-size: 20px;
+	padding-bottom: 15px;
+}
+
+.listings{
+	display: block;
+	min-height: 250px;
+}
+
+
+
+/* ie specific 
+.ie .page-template-index-php #content{
+	margin-left:-30px;
+}*/
+
+
+.ie #content{
+	margin-left: 30px;
+}
+
+.ie #topcontent{
+	margin-left: 30px;
+}
+
+.ie #bottomcontent{
+	margin-left: 30px;
+}
+
+.ie7 .page-template-page-listing-tigard-php #content{
+	margin-bottom: 0px;
+}
+
+.ie8 .home #content{
+	width: 882px;;
+}
+
+.ie9 .page-template-index-php #content{
+	margin-left:5px;
+}
+
+.ie9 #content{
+	margin-left:45px;
+}
+
+.ie9 #topcontent{
+	margin-left:45px;
+}
+
+.ie9 #bottomcontent{
+	margin-left:45px;
+}
+
+.ie10 .home #content{
+	margin-left: 0 !important;
+}
+
+
+.ie10 #content{
+	margin-left: 40px !important;
+}
+
+.ie10 #topcontent{
+	margin-left: 40px !important;
+}
+
+.ie10 #bottomcontent{
+	margin-left: 40px !important;
+}
+
+
+
+
+/* chrome specific 
+
+.win.chrome .page-template-index-php #content{
+	margin-left: 0 !important;
+}
+
+.win.chrome  #content{
+	margin-left:-15px;
+}
+
+.win.chrome #topcontent{
+	margin-left:-15px;
+}
+
+.win.chrome #bottomcontent{
+	margin-left:-15px;
+}
+
+.win.chrome .home #content{
+	margin-left: -30px;;
+}*/
+
+
+/* firefox specific */
+
+.win.gecko .page-template-index-php #content{
+	margin-left: -15px;
+}
+
+.win.gecko #content{
+	margin-left: 30px;
+}
+
+.win.gecko #topcontent{
+	margin-left:30px;
+}
+
+.win.gecko #bottomcontent{
+	margin-left: 30px;
+}
+
+.win.gecko .single #bottomcontent{
+	margin-left: 30px;
+}
+
+.gecko #frontlefttitle{
+	padding-top:5px;
+}
+
+.gecko #frontrighttitle{
+	padding-top:5px;
+}
+
+win.gecko #frontlefttitle{
+	margin-top: -15px;
+}
+
+win.gecko #frontrighttitle{
+	margin-top: -15px;
+}
+
+
+
+/* windows safari specific */
+
+.win.webkit .page-template-index-php #content{
+	margin-left:-15px;
+}
+
+.win.webkit  #content{
+	margin-left:30px;
+}
+
+.win.webkit  #topcontent{
+	margin-left:30px;
+}
+
+.win.webkit  #bottomcontent{
+	margin-left: 30px;
+}
+
+.win.webkit  .single #bottomcontent{
+	margin-left: 30px;
+}
+
+
+
+ul#menu-gallery li {
+	margin-bottom: 20px;
+	font-weight: bold;
+	
+}
+
+ul#menu-gallery .current-menu-item a{
+	color: #790D0B;
+}
+
+.page-template-page-aboutus-php li#text-2{
+	display: none;
+}
+
+.error404 #wufoo-z7p4m5{
+	display:none;
+}
+
+.page-template-page-listing-beaverton-php li#frm_show_form-3{
+	display:none;
+}
+
+.page-template-page-listing-aloha-php li#frm_show_form-3{
+	display:none;
+}
+
+.page-template-page-listing-ocity-php li#frm_show_form-3{
+	display:none;
+}
+
+.page-template-page-listing-vancouver-php li#frm_show_form-3{
+	display:none;
+}
+
+.page-template-page-listing-php li#frm_show_form-3{
+	display:none;
+}
+
+
+
+
+.page-template-page-listing-beaverton-php #wufoo-z7p4m5{
+	display:none;
+}
+
+.page-template-page-listing-ocity-php #wufoo-z7p4m5{
+	display:none;
+}
+
+.page-template-page-listing-vancouver-php #wufoo-z7p4m5{
+	display:none;
+}
+
+.page-template-page-listing-php #wufoo-z7p4m5{
+	display:none;
+}
+
+.page-template-page-listing-nwportland-php #wufoo-z7p4m5{
+	display: none;
+}
+
+.page-template-page-listing-tigard-php #wufoo-z7p4m5{
+	display: none;
+}
+
+.page-template-page-listing-test-php #wufoo-z7p4m5{
+	display: none;
+}
+
+.page-template-page-listing-php #wufoo-z7p4m5{
+	display: none;
+}
+
+
+
+
+.frm_form_widget h2.widgettitle{
+	font-weight: bold;
+}
+
+#frm_form_3_container{
+	border-top: 1px solid gray;
+	margin-top: 10px;
+	padding-top: 15px;
+}
+
+.with_frm_style .frm_message{
+	border: none !important;
+	background-color: transparent !important;
+}
+
+.with_frm_style .frm_message p{
+	border: none !important;
+	background-color: transparent !important;
+}
+
+.slideshowlink{
+	display: none;
+}
+
+.single-homes #content{
+	min-height: 500px;
+}
+
+.single-homes li#frm_show_form-3{
+	display: none;
+}
+
+.single-homes #wufoo-z7p4m5{
+	display: none;
+}
+
+#contentright a:hover{
+	color: #c5cf5f;
+}
+
+#contentright  h2 a{
+color: #491710;
+text-decoration: none;
+}
+
+.nophoto{
+	padding-top: 20px;
+	text-align: center;
+}
+
+.noplan{
+	/*padding-top: 20px;*/
+	text-align: center;
+}
+
+
+/* NEW DESIGN STUFF BELO- ONLY COPY/PASTE BELOW! Make sure to delete items from top that are co[ied to here! */
+
+.overlay1{
+	display: none;
+	border: 0px solid red;
+	background:url('http://sagebuilthomesllc.com/wp-content/uploads/2014/07/sage-built-overlay2.png')no-repeat;
+	z-index: 3;
+	height:153px;
+	width:398px;
+	bottom:234px;
+	margin-left: 448px;
+	overflow: hidden;
+}
+
+#frontright{
+	border: 0px solid blue;
+	height:153px;
+	width:398px;
+	margin-top: 3px;
+	background-image:url('http://sagebuilthomesllc.com/wp-content/uploads/2014/07/sage-built.png');
+	z-index: 1;
+}
+
+#skew{
+	border: 0px solid blue;
+	transform:rotate(9deg);
+-ms-transform:rotate(9deg); /* IE 9 */
+-webkit-transform:rotate(9deg); /* Opera, Chrome, and Safari */
+	width: 200px;
+	overflow: hidden;
+	position: relative;
+	padding: 30px 0;
+	bottom:50px;
+	height: 120px;
+	z-index: 5;
+}
+
+.featured1{
+	border: 0px solid yellow;
+	text-align: right;
+	position: relative;
+	vertical-align: bottom;
+	padding: 30px;
+	right:-158px;
+	bottom:134px;
+	width: 200px;
+	z-index: 2;
+	overflow: hidden;
+}
+
+.featured1 img{
+	vertical-align: bottom;
+	max-height: 119px;
+	height: 118px;
+	margin-right: -10px;
+	border-radius:5px;
+	transform:rotate(-9deg);
+-ms-transform:rotate(-9deg); /* IE 9 */
+-webkit-transform:rotate(-9deg); /* Opera, Chrome, and Safari */
+}
+
+
+.listDetails{
+	vertical-align: top;
+	margin-top: 10px; 
+	
+}
+
+#frontright a{
+	text-decoration: none;
+}
+
+#frontrighttitle{
+	padding-top:6px;
+}
+
+
+
+			
+.listDetails{
+	vertical-align: top;
+	margin-top: 10px; 
+}
+			
+#frontright a{
+	text-decoration: underline;
+}
+
+#footer-wide{
+	border-top: 5px white solid;
+	background-color:#2b2c2e;
+	height: 500px;
+}
+
+
+#footer{
+	width:960px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	padding-bottom: 50px;
+	
+}
+
+#footer h3{
+	color: white;
+}
+
+#footer p{
+	text-align: right;
+	
+}
+
+#footer a{
+	text-decoration: none;
+}
+
+#midwrap{
+	width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	height:100%;
+	margin-bottom: 40px;
+}
+
+#home-footer{
+	float: left;
+	margin-right: 25px;
+}
+
+#avail-footer{
+	float: left;
+	margin-right: 25px;
+}
+
+#photo-footer{
+	float: left;
+	margin-right: 25px;
+}
+
+#care-footer{
+	float: left;
+	margin-right: 25px;
+}
+
+#about-footer{
+	float: left;
+	margin-right: 25px;
+}
+
+#news-footer{
+	float: left;
+	margin-right: 25px;
+}
+
+#info-footer{
+	float: left;
+	margin-right: 25px;
+}
+
+#info-footer a{
+	color: gray;
+}
+
+ul#l_nav li{
+	float: left;
+}
+
+ul#rightnav li{
+	float: left;
+}
+
+#topnav{
+	height:70px;
+	width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 70px;
+}
+
+#frontpageshowcase{
+	width:920px;
+	height:680px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/wp-content/themes/sagethemev2/images/bkgrd-3.png);
+	background-repeat: no-repeat;
+}
+
+#home-middle-top{
+	width: 800px;
+	margin-left: 10px;
+	margin-bottom: 8px;
+	margin-top: 2px;
+}
+
+#home-middle-bottom{
+	width: 775px;
+	margin-left: 10px;
+	height: 21px;
+	background-color: #581303;
+	padding-left: 25px;
+	padding-top: 4px;
+} 
+
+.page-id-14 #leftnav{
+	width: 165px;
+	margin-right: 20px;
+}
+
+ul#neighborhoods li{
+	margin-bottom: 15px;
+}
+
+ul#neighborhoods a{
+	font-weight: bold;
+}
+
+ul#neighborhoods a:hover{
+	color: #790D0B;
+}
+
+.archive.tax-homes_community.term-beaverton li.cat-item-5 a{
+	color: #790D0B !important;
+}
+
+.archive.tax-homes_community.term-oregon-city li.cat-item-6 a{
+	color: #790D0B !important;
+}
+
+.archive.tax-homes_community.term-nw-portland li.cat-item-9 a{
+	color: #790D0B !important;
+}
+
+.archive.tax-homes_community.term-tigard li.cat-item-10 a{
+	color: #790D0B !important;
+}
+
+.archive.tax-homes_community.term-aloha li.cat-item-13 a{
+	color: #790D0B !important;
+}
+
+.archive.tax-homes_community.term-hillsboro li.cat-item-14 a{
+	color: #790D0B !important;
+}
+
+.events-post{
+	height: 180px;
+	margin-bottom: 20px;
+}
+
+.events-post a{
+	color: #790D0B;
+}
+
+.event-thumb {
+float: left;
+margin-right: 10px;
+margin-top: 10px;
+}
+
+.single-format-standard .listings{
+	display: none;
+}
+
+.single-format-standard p{
+	margin-bottom: 15px;
+}
+
+.post-image{
+	height: 125px;
+	width: 175px;
+	float: left;
+}
+
+.page-template-page-news-php #content{
+	min-height: 500px;
+}
+
+.post-template-single-news-php #content{
+	min-height: 500px;
+}
+
+ul#neighborhoods-footer a{
+	color: gray;
+}
+
+/*  wordpress image alignment rules*/
+img.alignright {float:right; margin: 20px 0 1em 1em;}
+img.alignleft {float:left; margin:0 1em 1em 0}
+img.aligncenter {display: block; margin-left: auto; margin-right: auto}
+.alignright {float:right; }
+.alignleft {float:left; }
+.aligncenter {display: block; margin-left: auto; margin-right: auto}
+
+strong, b {
+font-weight: bolder !important;
+}
+
+.ngg-navigation a.page-numbers, .ngg-navigation a.next, .ngg-navigation a.prev, .ngg-navigation span.page-numbers, .ngg-navigation span.next, .ngg-navigation span.prev{
+	background:#cccccc;
+}
+
+#leftnav #wufoo-z7p4m5{
+	width:190px;
+}

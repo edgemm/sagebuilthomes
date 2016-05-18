@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+input.small, select.small{width:20px;}
+
+.noI form li, .altInstruct form li{
+	width:90% !important;
+}
