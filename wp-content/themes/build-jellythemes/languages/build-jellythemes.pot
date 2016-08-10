@@ -1,0 +1,753 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BUILD Jellythemes\n"
+"POT-Creation-Date: 2016-03-22 12:32+0100\n"
+"PO-Revision-Date: 2016-02-18 11:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop;_x;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: footer.php:14
+msgid "contact info"
+msgstr ""
+
+#: footer.php:24
+msgid "we are social on"
+msgstr ""
+
+#: footer.php:50
+msgid "latest posts"
+msgstr ""
+
+#: inc/admin/options-init.php:109
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/admin/options-init.php:110 inc/admin/options-init.php:115
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: inc/admin/options-init.php:114
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/admin/options-init.php:121
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: inc/admin/options-init.php:640
+msgid "General settings"
+msgstr ""
+
+#: inc/admin/options-init.php:641
+msgid "General theme settings"
+msgstr ""
+
+#: inc/admin/options-init.php:647
+msgid "Site name"
+msgstr ""
+
+#: inc/admin/options-init.php:654
+msgid "Logo image"
+msgstr ""
+
+#: inc/admin/options-init.php:655
+msgid "Aprox. 132x35px"
+msgstr ""
+
+#: inc/admin/options-init.php:661
+msgid "Theme color scheme"
+msgstr ""
+
+#: inc/admin/options-init.php:662
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: inc/admin/options-init.php:679
+msgid "Theme scheme layout"
+msgstr ""
+
+#: inc/admin/options-init.php:680
+msgid "Select your themes alternative layout color scheme."
+msgstr ""
+
+#: inc/admin/options-init.php:690
+msgid "Blog header"
+msgstr ""
+
+#: inc/admin/options-init.php:691
+msgid "Blog header image, ~ 1500px"
+msgstr ""
+
+#: inc/admin/options-init.php:697
+msgid "Show latest posts in footer?"
+msgstr ""
+
+#: inc/admin/options-init.php:703
+msgid "Disable page loader"
+msgstr ""
+
+#: inc/admin/options-init.php:710
+msgid "Pre-header info"
+msgstr ""
+
+#: inc/admin/options-init.php:711
+msgid "Pre-header contact info"
+msgstr ""
+
+#: inc/admin/options-init.php:716
+msgid "Show pre-header info bar?"
+msgstr ""
+
+#: inc/admin/options-init.php:717
+msgid "Show pre-header info bar"
+msgstr ""
+
+#: inc/admin/options-init.php:723
+msgid "Phone/slogan"
+msgstr ""
+
+#: inc/admin/options-init.php:724
+msgid "Free Consulting: +7(021)9-555-700"
+msgstr ""
+
+#: inc/admin/options-init.php:729
+msgid "Choose icon for Link 1"
+msgstr ""
+
+#: inc/admin/options-init.php:736
+msgid "Link 1"
+msgstr ""
+
+#: inc/admin/options-init.php:743
+msgid "Choose icon for Link 2"
+msgstr ""
+
+#: inc/admin/options-init.php:750
+msgid "Link 2"
+msgstr ""
+
+#: inc/admin/options-init.php:757
+msgid "Choose icon for Link 3"
+msgstr ""
+
+#: inc/admin/options-init.php:764
+msgid "Link 3"
+msgstr ""
+
+#: inc/admin/options-init.php:771
+msgid "Choose icon for Link 4"
+msgstr ""
+
+#: inc/admin/options-init.php:778
+msgid "Link 4"
+msgstr ""
+
+#: inc/admin/options-init.php:786
+msgid "Contact/Footer info"
+msgstr ""
+
+#: inc/admin/options-init.php:787
+msgid "Complete contact info"
+msgstr ""
+
+#: inc/admin/options-init.php:792
+msgid "About column title"
+msgstr ""
+
+#: inc/admin/options-init.php:793
+msgid "about build"
+msgstr ""
+
+#: inc/admin/options-init.php:798
+msgid "About text"
+msgstr ""
+
+#: inc/admin/options-init.php:799
+msgid ""
+"We suport 24/7, sed diam nonummy nibh euismod normani gov. Lorem ipsum dolor,"
+"sed diam nonumy eirmod tempor invid unt utat"
+msgstr ""
+
+#: inc/admin/options-init.php:804
+msgid "Location"
+msgstr ""
+
+#: inc/admin/options-init.php:805
+msgid "27 Street, Road North, New York"
+msgstr ""
+
+#: inc/admin/options-init.php:810
+msgid "Phone"
+msgstr ""
+
+#: inc/admin/options-init.php:811
+msgid "+7 (201) 9-556-700"
+msgstr ""
+
+#: inc/admin/options-init.php:816
+msgid "Phone 2"
+msgstr ""
+
+#: inc/admin/options-init.php:817
+msgid "+7 (201) 9-556-701"
+msgstr ""
+
+#: inc/admin/options-init.php:822 inc/functions.frontend.php:213
+msgid "Email"
+msgstr ""
+
+#: inc/admin/options-init.php:828
+msgid "Schedule"
+msgstr ""
+
+#: inc/admin/options-init.php:829
+msgid "8AM - 5 PM 7/365"
+msgstr ""
+
+#: inc/admin/options-init.php:834
+msgid "Facebook url"
+msgstr ""
+
+#: inc/admin/options-init.php:840 inc/admin/options-init.php:852
+#: inc/admin/options-init.php:864
+msgid "Counter"
+msgstr ""
+
+#: inc/admin/options-init.php:841 inc/admin/options-init.php:853
+#: inc/admin/options-init.php:865
+msgid "1K+"
+msgstr ""
+
+#: inc/admin/options-init.php:846
+msgid "Twitter url"
+msgstr ""
+
+#: inc/admin/options-init.php:858
+msgid "Instagram url"
+msgstr ""
+
+#: inc/admin/options-init.php:871
+msgid "Footer Logo image"
+msgstr ""
+
+#: inc/admin/options-init.php:872
+msgid "Aprox. 222x38px"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:331 inc/functions.admin.php:103
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332 inc/functions.admin.php:104
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333 inc/functions.admin.php:105
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335 inc/functions.admin.php:106
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:337 inc/functions.admin.php:107
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:342 inc/functions.admin.php:108
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:347 inc/functions.admin.php:113
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:357 inc/functions.admin.php:110
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:362 inc/functions.admin.php:111
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:367 inc/functions.admin.php:115
+msgid "Begin installing plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:372
+msgid "Begin updating plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:377
+msgid "Begin activating plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:381 inc/functions.admin.php:117
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:382
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:383
+#: inc/class-tgm-plugin-activation.php:3169 inc/functions.admin.php:118
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:384
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:385
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:389
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:594
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:711
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:904
+#: inc/class-tgm-plugin-activation.php:3583
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1011
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1011
+#: inc/class-tgm-plugin-activation.php:1014
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1014
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2015
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2301
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2304
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2320
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2323
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2326
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2343
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2347
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2349
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2355
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2358
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2361
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2369
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2505
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2513
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2521
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2556
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2570
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2571
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2572
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2576
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2577
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2625
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2629
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2634
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2704
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2737
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2743
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2746
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2777
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2779
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2820
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2822
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2928
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2954
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3168
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3514
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+#: inc/class-tgm-plugin-activation.php:3521
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+#: inc/class-tgm-plugin-activation.php:3521
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3516
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3521
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3522
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3523
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/functions.admin.php:36
+msgid "Main menu"
+msgstr ""
+
+#: inc/functions.admin.php:109
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#: inc/functions.admin.php:112
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#: inc/functions.admin.php:114
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+#: inc/functions.admin.php:116
+msgid "Activate installed plugin"
+msgstr ""
+
+#: inc/functions.admin.php:119
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/functions.frontend.php:8
+msgid "on"
+msgstr ""
+
+#: inc/functions.frontend.php:159
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions.frontend.php:164
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">:</span>"
+msgstr ""
+
+#: inc/functions.frontend.php:167
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/functions.frontend.php:169
+msgid "(Edit)"
+msgstr ""
+
+#: inc/functions.frontend.php:212
+msgid "Name"
+msgstr ""
+
+#: inc/functions.frontend.php:214
+msgid "Website"
+msgstr ""
+
+#: inc/functions.frontend.php:224 inc/functions.frontend.php:227
+msgid "Comment"
+msgstr ""
+
+#: index.php:27
+msgid "Read more"
+msgstr ""
+
+#: index.php:38
+msgid "There are no results for your query"
+msgstr ""
+
+#: page.php:29 single.php:36
+msgid "by"
+msgstr ""
+
+#: single-works.php:13
+msgid "ABOUT PROJECT"
+msgstr ""
+
+#: single-works.php:22
+msgid "Discuss"
+msgstr ""
+
+#: single-works.php:28
+msgid "Design"
+msgstr ""
+
+#: single-works.php:34
+msgid "Testing"
+msgstr ""
+
+#: single-works.php:40
+msgid "Deliver"
+msgstr ""
+
+#: single-works.php:58
+msgid "Project details"
+msgstr ""
+
+#: single-works.php:60
+msgid "Client"
+msgstr ""
+
+#: single-works.php:61
+msgid "Date"
+msgstr ""
+
+#: single-works.php:62
+msgid "Online"
+msgstr ""
+
+#: single-works.php:64
+msgid "Go Live"
+msgstr ""
+
+#: single-works.php:84
+msgid "RELATED PROJECTS"
+msgstr ""
+
+#: single.php:4
+msgid "Prev"
+msgstr ""
+
+#: single.php:5
+msgid "Next"
+msgstr ""
+
+#: single.php:37
+msgid "in"
+msgstr ""

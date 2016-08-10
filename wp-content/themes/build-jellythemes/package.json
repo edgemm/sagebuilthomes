@@ -1,0 +1,20 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "build HTML Theme",
+  "main": "index.html",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "keywords": [
+    "build",
+    "html",
+    "jellythemes"
+  ],
+  "author": "Jellythemes",
+  "homepage": "http://jellythemes.com/themes/build"
+}
